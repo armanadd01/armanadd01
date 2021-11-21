@@ -2,7 +2,7 @@
 #### I am Full Stack MERN Developer
 Hello, this is me, Arman Habib. I'm a MERN stack developer. 
 
-Skills: MONGODB / REACT / JS / PHP /HTML / CSS / BOOTSTRAP
+Skills: MONGODB / REACT / API / JS / PHP /HTML / CSS / BOOTSTRAP/ WordPress
 
 - 🔭 I’m currently working on this page. 
 
